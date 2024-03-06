@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+}
+div{
+    background-image: linear-gradient(pink,rgb(225, 104, 225),rgb(106, 106, 229),rgb(225, 104, 225),pink);
+}
+img{
+    width: 200px;
+    height: 200px;
+    border-radius: 200px;
+}
+hr{
+    width:50px;
+    height: 4px;
+    background-color: pink;
+}
